@@ -83,6 +83,6 @@
 
 4.用maven的插件生成代码；
 ![image](https://github.com/moyesen/myArticles/blob/master/image/maven-generator.jpg)
-​​
+
 5.生成的代码在src目录下；
 ![image](https://github.com/moyesen/myArticles/blob/master/image/generator-config.jpg)

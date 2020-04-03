@@ -1,3 +1,5 @@
+# 用mybatis插件generator自动生成entity,mapper,xml
+
 1.用IntelliJ IDEA 创建maven新项目；
 
 2.maven添加mysql-connector-java依赖；pom.xml文件内容如下：
@@ -80,5 +82,7 @@
 </generatorConfiguration>
 
 4.用maven的插件生成代码；
+![image](https://github.com/moyesen/myArticles/blob/master/image/maven-generator.jpg)
 ​​
 5.生成的代码在src目录下；
+![image](https://github.com/moyesen/myArticles/blob/master/image/generator-config.jpg)
